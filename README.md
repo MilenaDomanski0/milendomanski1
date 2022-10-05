@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @milendomanski1
+- 👋 Hi, I’m milena domanski
 - 👀 I’m interested in terminar o github
 - 🌱 I’m currently learning pensamento computacional
 - 💞️ I’m looking to collaborate on ...
